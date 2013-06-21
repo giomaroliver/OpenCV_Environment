@@ -11,6 +11,8 @@ DLLのパスの設定や、バージョン設定、Visual Studio 用のプロパ
  * OS
  ** Windows 8 Pro 64bit
  * Visual Studio
+ ** Visual Studio C++ 2010 Express
+ ** Visual Studio 2010 Ultimate
  ** Visual Studio Express 2012 for Desktop
  ** Visual Studio Ultimate 2012
 
