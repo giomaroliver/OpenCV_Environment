@@ -9,12 +9,12 @@ DLLのパスの設定や、バージョン設定、Visual Studio 用のプロパ
 本ファイルは次の環境で確認しています。
 
  * OS
- ** Windows 8 Pro 64bit
+   * Windows 8 Pro 64bit
  * Visual Studio
- ** Visual Studio C++ 2010 Express
- ** Visual Studio 2010 Ultimate
- ** Visual Studio Express 2012 for Desktop
- ** Visual Studio Ultimate 2012
+   * Visual Studio C++ 2010 Express
+   * Visual Studio 2010 Ultimate
+   * Visual Studio Express 2012 for Desktop
+   * Visual Studio Ultimate 2012
 
 
 # ライセンス
